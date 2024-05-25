@@ -5,4 +5,7 @@ contact_links:
     about: Ask a question on our official Discord!
   - name: Trello
     url: https://trello.com/w/calculusgames
-    about: View planned information on our Trello Bug
+    about: View planned information on our Trello Board
+  - name: Nexus Repository
+    url: https://repo.calcugames.xyz/
+    about: View artifacts available on our nexus repository.
